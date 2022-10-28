@@ -1,0 +1,7 @@
+{
+  "name": "TestRouting",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
